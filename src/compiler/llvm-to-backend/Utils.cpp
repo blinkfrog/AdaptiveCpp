@@ -318,5 +318,6 @@ int executeAndWait(
   return Result.ReturnCode;
 #endif
 }
+
 } // namespace compiler
 } // namespace hipsycl
